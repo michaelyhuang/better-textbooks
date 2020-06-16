@@ -1,151 +1,151 @@
-    84,    570, C H A P T E R
-   108,    526, 29
-    84,    495, PO STMODERNI SM
-    87,    471, Derrida, Foucault, and Rorty
-    48,    298, Some  say  that  the  postmodern  era  began  in 
-    72,    317, architecture. The modernist sensibility in ar-
-    72,    305, chitecture dominated most of the twentieth 
-    48,    292, century. Its patron saint was Le Corbusier, and its 
-    48,    280, prime symbol was the steel and glass skyscraper—
-    48,    267, austere,  mathematical,  rational.   Postmodernist 
-    48,    255, architecture,  by  contrast,  emphasized  human 
-    48,    242, interactions  and  playful  imagination,  using  pas-
-    48,    230, tiche  (borrowing  elements  from  other  times, 
-    48,    217, traditions,  and  cultures)  to  enhance  engineering 
-    48,    205, requirements.*
-    63,    192, Modernist architecture stands as a visible symbol 
-    48,    180, of enlightenment promise, where science and ratio-
-    48,    167, nality would rule and happiness would prevail. As 
-    48,    155, disillusionment with that ideal set in, migrations of 
-    48,    142, people across the globe and the rise of the Internet 
-    48,    130, made awareness of other cultures inescapable. Just 
-    48,    117, as in ancient Greece, where increasing familiarity 
-    63,     84, *Compare the Seagram building, lacking all extrane-
-    48,     74, ous decoration (http://www.archdaily.com/59412/
-    48,     63, seagram-building-mies-van-der-rohe/), to Philip Johnson’s 
-    48,     53, AT&T building, with its grandfather clock top (https://
-    48,     42, en.wikipedia.org/wiki/550_Madison_Avenue).
-   276,    330, with other cultures brought the sophists to promi-
-   276,    317, nence, multiculturalism and moral relativism seem 
-   276,    305, an  inescapable  consequence.*  Postmodernists  in 
-   276,    292, philosophy are suspicious of claims to truth, objec-
-   276,    280, tivity,  rationality,  and  universality.  They  are  du-
-   276,    267, bious about the idea that natural science is an apt 
-   276,    255, model for knowledge in general. They doubt that 
-   276,    242, philosophy as it has been practiced in the Descartes, 
-   276,    230, Hume,  Kant  tradition  can  serve  as  a  judge  of  the 
-   276,    217, true and the good. And they want to leave behind 
-   276,    205, (or  destroy)  all  metaphysical  pretensions  to  grasp 
-   276,    192, some absolute reality beyond appearance.
-   291,    180, Just  as  the  sophists  came  up  against  Socrates, 
-   276,    167, so postmodernism has spawned its critics. Philo-
-   276,    155, sophically speaking, we are recapitulating that old 
-   276,    142, quarrel. In a recent book, Thomas Nagel (b. 1937) 
-   276,    130, deplores the postmodern influence:
-   288,    112, The worst of it is that subjectivism is not just an 
-   288,    101, inconsequential intellectual flourish or badge of 
-   291,     63, *Look again at Herodotus on how the Greeks and the 
-   276,     53, Persians care for their dead (p. 63) and review the arguments 
-   276,     42, between the sophists and Socrates (pp. 95–97).
-   260,     21, 698
-    48,    -32, mel70610_ch29_698-721.indd  698 
-   439,    -32, 07/03/18  07:24 PM
-    66,    606, theoretical chic. It is used to deflect argument, 
-    66,    594, or to belittle the pretensions of the arguments of 
-    66,    583, others. Claims that something is without relativistic 
-    66,    571, qualiﬁcation true or false, right or wrong, good or 
-    66,    560, bad, risk being derided as expressions of a parochial 
-    66,    548, perspective or form of life—not as a preliminary to 
-    66,    537, showing that they are mistaken whereas something 
-    66,    525, else is right, but as a way of showing that noth-
-    66,    514, ing is right and that instead we are all expressing 
-    66,    502, our personal or cultural points of view. The actual 
-    66,    491, result has been a growth in the already extreme 
-    66,    479, intellectual laziness of contemporary culture and 
-    66,    468, the collapse of serious argument throughout the 
-    66,    456, lower reaches of the humanities and social sciences, 
-    66,    445, together with a refusal to take seriously, as anything 
-    66,    433, other than ﬁrst-person avowals, the objective argu-
-    66,    422, ments of others.1
-    54,    402, Is that a just critique? To wrestle with that question, 
-    54,    390, we will look at three postmodernist ideas: decon-
-    54,    377, struction as formulated by Jacques Derrida, Michel 
-    54,    365, Foucault’s  historical  studies  of  knowledge  and 
-    54,    352, power, and the liberal ironism of Richard Rorty.2
-    54,    320, Deconstruction: Jacques Derrida
-    54,    305, The  idea  of  “deconstructing  texts”  has  had  a  very 
-    54,    292, wide  influence.  On  the  assumption  that  language 
-    54,    280, structures  all  our  thought  and  action—not  just 
-    54,    267, speech  and  literature,  but  also  social  institutions 
-    54,    255, and  political  structures—the  notion  of  a  “text” 
-    54,    242, seems  applicable  everywhere.  If  all  our  under-
-    54,    230, standings  are  structured  by  the  speciﬁc  language 
-    54,    217, we  speak,  and  without  that  structuring  would  be 
-    54,    205, impossible,  then  all  of  culture  is  a  kind  of  text  to 
-    54,    192, be  read,  interpreted,  understood  (or  misunder-
-    54,    180, stood)—and deconstructed. No one has been more 
-    54,    167, influential in working out the idea of deconstruc-
-    54,    155, tion than the French philosopher, Jacques Derrida 
-    54,    142, (1930–2004).
-    69,    130, To  understand  deconstruction,  it  will  help 
-    54,    117, to get as clear as we can about what it aims to de-
-    54,    105, construct. And to do that let us remind ourselves 
-    54,     92, of certain themes in Heidegger. In Being and Time 
-    54,     80, Heidegger adopts (or adapts) Husserl’s method of 
-    54,     67, phenomenology to lay bare the essence of human 
-    54,     55, existing—what  he  calls  Dasein.  To  proceed  phe-
-    54,     42, nomenologically is to try to set aside the assump-
-    54,     30, tions, presuppositions, and interpretations that are 
-   342,    625, Deconstruction: Jacques Derrida 
-   463,    624,     699
-   282,    605, normally brought to experience; the aim is to let 
-   282,    592, what  is  experienced—the  phenomenon—simply 
-   282,    580, show itself as it is and then describe it with care by 
-   282,    567, identifying its essential features. Notice that he takes 
-   282,    555, for  granted  that  there  is  something—something 
-   282,    542, prior to all description—in which Dasein’s Being 
-   282,    530, consists. There is a truth about our being here, and 
-   282,    517, that truth is revealed phenomenologically via these 
-   282,    505, existential  concepts.  Human  existence  as  a  phe-
-   282,    492, nomenon is laid bare—self- evident,  undeniable—a 
-   282,    480, presence to be recognized and described.
-   297,    467, In his later work Heidegger turns away from the 
-   282,    455, claim that discovering the essence of human exis-
-   282,    442, tence will lead us directly to the meaning of Being 
-   282,    430, itself. But he does not turn away from the idea that 
-   282,    417, the goal is still presence. If we could allow the presenc-
-   282,    405, ing of beings itself to be present, that might change 
-   282,    392, us, save us, rescue us from this long era of blindness 
-   282,    380, to Being and deliver us into the “truth of Being.”
-   297,    367, It  is  precisely  this  notion  of  presence  that 
-   282,    355, Derrida has in his sights. To make it more clear, let 
-   282,    342, us cite some other examples.
-   297,    318, • 
-   309,    318, In Plato’s allegory of the cave, the prisoner turns 
-   309,    306, away from mere shadows of reality and clam-
-   309,    295, bers into the sunlight outside the cave, where 
-   309,    283, she will eventually see the truth of things. This 
-   309,    272, “seeing,” toward which Plato’s epistemology 
-   309,    260, drives, is a case of the Forms being present to the 
-   309,    249, knower. (See pp. 159–160.)
-   297,    237, •  Aristotle argues that not everything can be 
-   309,    226,  demonstrated—on pain of an inﬁnite regress—
-   309,    214, so the ﬁrst principles just have to be seen to 
-   309,    203, be true, seen as they present themselves to the 
-   309,    191, mind. (See pp. 190–192.)
-   297,    180, •  Descartes, seeking something he cannot doubt, 
-   309,    168, ﬁnds it in the cogito, the “I think, therefore I 
-   309,    157, am” principle. This is so clearly and distinctly 
-   309,    145, present to his mind that it can play the role 
-   309,    134, of a ﬁrst certainty; on this he can build. (See 
-   309,    122, pp. 362–364.)
-   297,    111, •  Hume may be skeptical about external things, 
-   309,     99, causality, the self, and God; but impressions are 
-   309,     88, just there!—present in experience. You can’t 
-   309,     76, doubt the blue triangle when it presents itself in 
-   309,     65, your visual ﬁeld. (See pp. 443–444.)
-   297,     53, •  Kant’s transcendental critique of reason pres-
-   309,     42, ents us with the constitutive principles of any 
-   309,     30, rational mind, both theoretical (causality, for 
-    54,    -32, mel70610_ch29_698-721.indd  699 
-   445,    -32, 07/03/18  07:24 PM
+    84,    570,    163,    583, C H A P T E R
+   108,    526,    139,    574, 29
+    84,    495,    296,    514, PO STMODERNI SM
+    87,    471,    260,    489, Derrida, Foucault, and Rorty
+    48,    298,    260,    347, Some  say  that  the  postmodern  era  began  in 
+    72,    317,    258,    329, architecture. The modernist sensibility in ar-
+    72,    305,    260,    316, chitecture dominated most of the twentieth 
+    48,    292,    260,    304, century. Its patron saint was Le Corbusier, and its 
+    48,    280,    258,    291, prime symbol was the steel and glass skyscraper—
+    48,    267,    260,    279, austere,  mathematical,  rational.   Postmodernist 
+    48,    255,    260,    266, architecture,  by  contrast,  emphasized  human 
+    48,    242,    258,    254, interactions  and  playful  imagination,  using  pas-
+    48,    230,    260,    241, tiche  (borrowing  elements  from  other  times, 
+    48,    217,    260,    229, traditions,  and  cultures)  to  enhance  engineering 
+    48,    205,    111,    217, requirements.*
+    63,    192,    260,    204, Modernist architecture stands as a visible symbol 
+    48,    180,    258,    191, of enlightenment promise, where science and ratio-
+    48,    167,    260,    179, nality would rule and happiness would prevail. As 
+    48,    155,    260,    166, disillusionment with that ideal set in, migrations of 
+    48,    142,    260,    154, people across the globe and the rise of the Internet 
+    48,    130,    260,    141, made awareness of other cultures inescapable. Just 
+    48,    117,    260,    129, as in ancient Greece, where increasing familiarity 
+    63,     84,    242,     94, *Compare the Seagram building, lacking all extrane-
+    48,     74,    231,     83, ous decoration (http://www.archdaily.com/59412/
+    48,     63,    252,     73, seagram-building-mies-van-der-rohe/), to Philip Johnson’s 
+    48,     53,    240,     62, AT&T building, with its grandfather clock top (https://
+    48,     42,    214,     52, en.wikipedia.org/wiki/550_Madison_Avenue).
+   276,    330,    486,    341, with other cultures brought the sophists to promi-
+   276,    317,    488,    329, nence, multiculturalism and moral relativism seem 
+   276,    305,    488,    317, an  inescapable  consequence.*  Postmodernists  in 
+   276,    292,    486,    304, philosophy are suspicious of claims to truth, objec-
+   276,    280,    486,    291, tivity,  rationality,  and  universality.  They  are  du-
+   276,    267,    488,    279, bious about the idea that natural science is an apt 
+   276,    255,    488,    266, model for knowledge in general. They doubt that 
+   276,    242,    488,    254, philosophy as it has been practiced in the Descartes, 
+   276,    230,    488,    241, Hume,  Kant  tradition  can  serve  as  a  judge  of  the 
+   276,    217,    488,    229, true and the good. And they want to leave behind 
+   276,    205,    488,    216, (or  destroy)  all  metaphysical  pretensions  to  grasp 
+   276,    192,    447,    204, some absolute reality beyond appearance.
+   291,    180,    488,    191, Just  as  the  sophists  came  up  against  Socrates, 
+   276,    167,    486,    179, so postmodernism has spawned its critics. Philo-
+   276,    155,    488,    166, sophically speaking, we are recapitulating that old 
+   276,    142,    488,    154, quarrel. In a recent book, Thomas Nagel (b. 1937) 
+   276,    130,    423,    141, deplores the postmodern influence:
+   288,    112,    470,    123, The worst of it is that subjectivism is not just an 
+   288,    101,    469,    111, inconsequential intellectual flourish or badge of 
+   291,     63,    475,     73, *Look again at Herodotus on how the Greeks and the 
+   276,     53,    487,     62, Persians care for their dead (p. 63) and review the arguments 
+   276,     42,    438,     52, between the sophists and Socrates (pp. 95–97).
+   260,     21,    273,     31, 698
+    48,    -32,    131,    -26, mel70610_ch29_698-721.indd  698 
+   439,    -32,    485,    -26, 07/03/18  07:24 PM
+    66,    606,    244,    616, theoretical chic. It is used to deflect argument, 
+    66,    594,    252,    605, or to belittle the pretensions of the arguments of 
+    66,    583,    263,    593, others. Claims that something is without relativistic 
+    66,    571,    258,    582, qualiﬁcation true or false, right or wrong, good or 
+    66,    560,    263,    570, bad, risk being derided as expressions of a parochial 
+    66,    548,    263,    559, perspective or form of life—not as a preliminary to 
+    66,    537,    260,    547, showing that they are mistaken whereas something 
+    66,    525,    243,    536, else is right, but as a way of showing that noth-
+    66,    514,    251,    524, ing is right and that instead we are all expressing 
+    66,    502,    258,    513, our personal or cultural points of view. The actual 
+    66,    491,    248,    501, result has been a growth in the already extreme 
+    66,    479,    252,    490, intellectual laziness of contemporary culture and 
+    66,    468,    249,    478, the collapse of serious argument throughout the 
+    66,    456,    263,    467, lower reaches of the humanities and social sciences, 
+    66,    445,    264,    455, together with a refusal to take seriously, as anything 
+    66,    433,    259,    444, other than ﬁrst-person avowals, the objective argu-
+    66,    422,    131,    435, ments of others.1
+    54,    402,    266,    414, Is that a just critique? To wrestle with that question, 
+    54,    390,    264,    401, we will look at three postmodernist ideas: decon-
+    54,    377,    266,    389, struction as formulated by Jacques Derrida, Michel 
+    54,    365,    266,    376, Foucault’s  historical  studies  of  knowledge  and 
+    54,    352,    258,    367, power, and the liberal ironism of Richard Rorty.2
+    54,    320,    251,    339, Deconstruction: Jacques Derrida
+    54,    305,    266,    316, The  idea  of  “deconstructing  texts”  has  had  a  very 
+    54,    292,    266,    304, wide  influence.  On  the  assumption  that  language 
+    54,    280,    266,    291, structures  all  our  thought  and  action—not  just 
+    54,    267,    266,    279, speech  and  literature,  but  also  social  institutions 
+    54,    255,    266,    266, and  political  structures—the  notion  of  a  “text” 
+    54,    242,    264,    254, seems  applicable  everywhere.  If  all  our  under-
+    54,    230,    266,    241, standings  are  structured  by  the  speciﬁc  language 
+    54,    217,    266,    229, we  speak,  and  without  that  structuring  would  be 
+    54,    205,    266,    217, impossible,  then  all  of  culture  is  a  kind  of  text  to 
+    54,    192,    264,    204, be  read,  interpreted,  understood  (or  misunder-
+    54,    180,    266,    191, stood)—and deconstructed. No one has been more 
+    54,    167,    264,    179, influential in working out the idea of deconstruc-
+    54,    155,    266,    166, tion than the French philosopher, Jacques Derrida 
+    54,    142,    112,    154, (1930–2004).
+    69,    130,    266,    141, To  understand  deconstruction,  it  will  help 
+    54,    117,    264,    129, to get as clear as we can about what it aims to de-
+    54,    105,    266,    116, construct. And to do that let us remind ourselves 
+    54,     92,    266,    104, of certain themes in Heidegger. In Being and Time 
+    54,     80,    266,     91, Heidegger adopts (or adapts) Husserl’s method of 
+    54,     67,    266,     79, phenomenology to lay bare the essence of human 
+    54,     55,    264,     67, existing—what  he  calls  Dasein.  To  proceed  phe-
+    54,     42,    264,     54, nomenologically is to try to set aside the assump-
+    54,     30,    266,     41, tions, presuppositions, and interpretations that are 
+   342,    625,    451,    634, Deconstruction: Jacques Derrida 
+   463,    624,    492,    636,     699
+   282,    605,    494,    616, normally brought to experience; the aim is to let 
+   282,    592,    494,    604, what  is  experienced—the  phenomenon—simply 
+   282,    580,    494,    592, show itself as it is and then describe it with care by 
+   282,    567,    494,    579, identifying its essential features. Notice that he takes 
+   282,    555,    494,    567, for  granted  that  there  is  something—something 
+   282,    542,    494,    554, prior to all description—in which Dasein’s Being 
+   282,    530,    494,    542, consists. There is a truth about our being here, and 
+   282,    517,    494,    529, that truth is revealed phenomenologically via these 
+   282,    505,    492,    516, existential  concepts.  Human  existence  as  a  phe-
+   282,    492,    494,    504, nomenon is laid bare—self- evident,  undeniable—a 
+   282,    480,    445,    492, presence to be recognized and described.
+   297,    467,    494,    479, In his later work Heidegger turns away from the 
+   282,    455,    492,    466, claim that discovering the essence of human exis-
+   282,    442,    494,    454, tence will lead us directly to the meaning of Being 
+   282,    430,    494,    441, itself. But he does not turn away from the idea that 
+   282,    417,    492,    429, the goal is still presence. If we could allow the presenc-
+   282,    405,    494,    417, ing of beings itself to be present, that might change 
+   282,    392,    494,    404, us, save us, rescue us from this long era of blindness 
+   282,    380,    480,    391, to Being and deliver us into the “truth of Being.”
+   297,    367,    494,    379, It  is  precisely  this  notion  of  presence  that 
+   282,    355,    494,    366, Derrida has in his sights. To make it more clear, let 
+   282,    342,    402,    354, us cite some other examples.
+   297,    318,    302,    328, • 
+   309,    318,    494,    328, In Plato’s allegory of the cave, the prisoner turns 
+   309,    306,    479,    317, away from mere shadows of reality and clam-
+   309,    295,    482,    305, bers into the sunlight outside the cave, where 
+   309,    283,    483,    294, she will eventually see the truth of things. This 
+   309,    272,    477,    282, “seeing,” toward which Plato’s epistemology 
+   309,    260,    492,    271, drives, is a case of the Forms being present to the 
+   309,    249,    414,    259, knower. (See pp. 159–160.)
+   297,    237,    471,    248, •  Aristotle argues that not everything can be 
+   309,    226,    488,    236,  demonstrated—on pain of an inﬁnite regress—
+   309,    214,    473,    225, so the ﬁrst principles just have to be seen to 
+   309,    203,    481,    213, be true, seen as they present themselves to the 
+   309,    191,    406,    202, mind. (See pp. 190–192.)
+   297,    180,    490,    190, •  Descartes, seeking something he cannot doubt, 
+   309,    168,    476,    179, ﬁnds it in the cogito, the “I think, therefore I 
+   309,    157,    481,    167, am” principle. This is so clearly and distinctly 
+   309,    145,    469,    156, present to his mind that it can play the role 
+   309,    134,    479,    144, of a ﬁrst certainty; on this he can build. (See 
+   309,    122,    364,    133, pp. 362–364.)
+   297,    111,    484,    121, •  Hume may be skeptical about external things, 
+   309,     99,    490,    110, causality, the self, and God; but impressions are 
+   309,     88,    477,     98, just there!—present in experience. You can’t 
+   309,     76,    487,     87, doubt the blue triangle when it presents itself in 
+   309,     65,    446,     75, your visual ﬁeld. (See pp. 443–444.)
+   297,     53,    482,     64, •  Kant’s transcendental critique of reason pres-
+   309,     42,    485,     52, ents us with the constitutive principles of any 
+   309,     30,    485,     41, rational mind, both theoretical (causality, for 
+    54,    -32,    137,    -26, mel70610_ch29_698-721.indd  699 
+   445,    -32,    491,    -26, 07/03/18  07:24 PM

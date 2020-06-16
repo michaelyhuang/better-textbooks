@@ -18,7 +18,7 @@ laparams = LAParams()
 device = PDFPageAggregator(rsrcmgr, laparams=laparams)
 interpreter = PDFPageInterpreter(rsrcmgr, device)
 pages = PDFPage.get_pages(fp)
-
+textDict = {}
 
 def parse_obj(lt_objs):
     validTypes = (LTTextBox, LTTextLine, LTTextBoxHorizontal, LTFigure)
@@ -27,7 +27,10 @@ def parse_obj(lt_objs):
         for obj in lt_objs:
 
             if isinstance(obj, pdfminer.layout.LTTextLine):
-                output_string.write("%6d, %6d, %s" % (obj.bbox[0], obj.bbox[1], obj.get_text()))
+                textLine = obj.get_text()
+                x0, y0, x1, y1 = obj.bbox[0], obj.bbox[1], obj.bbox[2], obj.bbox[3]
+                output_string.write("%6d, %6d, %6d, %6d, %s" % (x0, y0, x1, y1, textLine))
+                textDict.update({textLine.replace('\n', '') : [x0, y0, x1, y1]})
 
             # if it's a textbox, also recurse
             if isinstance(obj, pdfminer.layout.LTTextBoxHorizontal):
@@ -54,3 +57,4 @@ output_file= open("textInfo.txt","w")
 output_file.write(content)
 output_file.close()
 
+print(textDict)
