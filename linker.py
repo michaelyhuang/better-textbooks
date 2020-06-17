@@ -1,14 +1,22 @@
 from PyPDF2 import PdfFileReader, PdfFileWriter
-import fpdf
 
-rdr = PdfFileReader("short.pdf")
-print(rdr.getNamedDestinations())
+class linker:
 
-writer = PdfFileWriter()
-writer.appendPagesFromReader(rdr)
-writer.addLink(0, 1, [63,192,260,204], "dott")
+    def createLink(self, filePath, origin, destination, location):
+        rdr = PdfFileReader(filePath)
+        writer = PdfFileWriter()
+        writer.appendPagesFromReader(rdr)
+        writer.addLink(origin, destination, location, "dott")
 
-output_path = "linked.pdf"
+        output_path = "linked.pdf"
 
-with open(output_path, 'wb') as fileobj:
-    writer.write(fileobj)
+        with open(output_path, 'wb') as fileobj:
+            writer.write(fileobj)
+
+if __name__ == '__main__':
+    fp = input("File path: ")
+    orig = 0
+    dest = 1
+    loc = [100,200,150,250]
+    linkerObj = linker()
+    linkerObj.createLink(fp, orig, dest, loc)
